@@ -3,7 +3,9 @@ Repository
 for teacher and student
 in Microsoft Power BI course
 <BR><BR>
-#COURSE OUTLINE<BR>
+  
+# COURSE OUTLINE<BR><BR>
+  
 <B>Module 01: Introducing Power BI</B><BR>
 - Getting started with Power BI
 - Uploading data to Power BI
