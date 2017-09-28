@@ -1,4 +1,4 @@
-# Microsoft Power BI <BR><BR>
+# Microsoft Power BI 
 Repository
 for teacher and student
 in Microsoft Power BI course
