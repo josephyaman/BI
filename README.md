@@ -2,8 +2,8 @@
 Repository
 for teacher and student
 in Microsoft Power BI course
-
-#COURSE OUTLINE
+<BR><BR>
+#COURSE OUTLINE<BR>
 <B>Module 01: Introducing Power BI</B><BR>
 - Getting started with Power BI
 - Uploading data to Power BI
@@ -15,38 +15,38 @@ in Microsoft Power BI course
 - Saving the report
 - Pinning a report
 - Refreshing the budget workbook
-- Filtering a report
+- Filtering a report<BR>
 <B>Module 02: Sharing the dashboard</B><BR>
 - Inviting a user to see a dashboard
 - Creating a group workspace in Power BI
 - Turning on sharing with Microsoft OneDrive for Business
-- Viewing reports and dashboards on mobile devices
+- Viewing reports and dashboards on mobile devices<BR>
 <B>Module 03: Understanding data refresh</B><BR>
 - Introducing data refresh
 - Introducing the Power BI refresh architecture
 - Introducing Power BI Desktop
 - Publishing to Power BI
 - Installing the Power BI Personal Gateway
-- Configuring automatic refresh
+- Configuring automatic refresh<BR>
 <B>Module 04: Using Power BI Desktop</B><BR>
 - Connecting to a database
 - Loading from multiple sources
 - Using Query Editor
 - Hiding or removing tables
-- Handling seasonality and sorting months
+- Handling seasonality and sorting months<BR>
 <B>Module 05: Getting data from services and content packs</B><BR>
 - Consuming a service content pack
 - Creating a custom dataset from a service
 - Creating a content pack for your organization
 - Consuming an organizational content pack
-- Updating an organizational content pack
+- Updating an organizational content pack<BR>
 <B>Module 06: Building a data model</B><BR>
 - Loading individual tables
 - Implementing measures
 - Creating calculated columns
 - Improving the report by using measures
 - Integrating budget information
-- Reallocating the budget
+- Reallocating the budget<BR>
 <B>Module 07: Improving Power BI reports</B><BR>
 - Choosing the right visualizations
 - Using custom visualizations
